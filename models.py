@@ -11,7 +11,6 @@ class User(UserMixin, Model):
 
     class Meta:
         database = DATABASE
-        order_by = ('-joined_at',)
 
     @classmethod
     def create_user(cls, email, password):
@@ -25,7 +24,22 @@ class User(UserMixin, Model):
             raise ValueError('User already exists')
 
 
+class Taco(Model):
+    user = ForeignKeyField(
+        rel_model=User,
+        related_name='tacos'
+
+    )
+    protein = CharField()
+    shell = CharField()
+    cheese = BooleanField()
+    extras = TextField()
+
+    class Meta:
+        database = DATABASE
+
+
 def initialize():
     DATABASE.connect()
-    DATABASE.create_tables([User], safe=True)
+    DATABASE.create_tables([User, Taco], safe=True)
     DATABASE.close()
