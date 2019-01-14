@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="fa5654a0-cc3a-4fea-9212-47d14dd4f3df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacocat" beforeDir="false" afterPath="$PROJECT_DIR$/tacocat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacocat.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacocat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,20 +18,25 @@
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoViewsTestCase_test_taco_list.coverage" NAME="Unittests for app_tests.TacoViewsTestCase.test_taco_list Coverage Results" MODIFIED="1547438908229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase_test_good_login.coverage" NAME="Unittests for app_tests.UserViewsTestCase.test_good_login Coverage Results" MODIFIED="1547328092757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserModelTestCase.coverage" NAME="Unittests for app_tests.UserModelTestCase Coverage Results" MODIFIED="1547328267211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoViewsTestCase_test_empty_db.coverage" NAME="Unittests for app_tests.TacoViewsTestCase.test_empty_db Coverage Results" MODIFIED="1547362565408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase_test_logged_in_menu.coverage" NAME="Unittests for app_tests.UserViewsTestCase.test_logged_in_menu Coverage Results" MODIFIED="1547420344316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase_test_registration.coverage" NAME="Unittests for app_tests.UserViewsTestCase.test_registration Coverage Results" MODIFIED="1547327850741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/taco_cat$Flask__tacocat_py_.coverage" NAME="Flask (tacocat.py) Coverage Results" MODIFIED="1547178525816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase_test_logged_out_menu.coverage" NAME="Unittests for app_tests.UserViewsTestCase.test_logged_out_menu Coverage Results" MODIFIED="1547328919215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoModelTestCase_test_taco_creation.coverage" NAME="Unittests for app_tests.TacoModelTestCase.test_taco_creation Coverage Results" MODIFIED="1547181878335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoViewsTestCase.coverage" NAME="Unittests for app_tests.TacoViewsTestCase Coverage Results" MODIFIED="1547358329414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase_test_logged_out_menu.coverage" NAME="Unittests for app_tests.UserViewsTestCase.test_logged_out_menu Coverage Results" MODIFIED="1547425249392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Flask__tacocat_py_.coverage" NAME="Flask (tacocat.py) Coverage Results" MODIFIED="1547450057265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoModelTestCase_test_taco_creation.coverage" NAME="Unittests for app_tests.TacoModelTestCase.test_taco_creation Coverage Results" MODIFIED="1547358262277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserModelTestCase_test_create_duplicate_user.coverage" NAME="Unittests for app_tests.UserModelTestCase.test_create_duplicate_user Coverage Results" MODIFIED="1547176088611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_ViewTestCase.coverage" NAME="Unittests for app_tests.ViewTestCase Coverage Results" MODIFIED="1547328285315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase_test_logout.coverage" NAME="Unittests for app_tests.UserViewsTestCase.test_logout Coverage Results" MODIFIED="1547328896962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_ViewTestCase.coverage" NAME="Unittests for app_tests.ViewTestCase Coverage Results" MODIFIED="1547358297154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase_test_bad_login.coverage" NAME="Unittests for app_tests.UserViewsTestCase.test_bad_login Coverage Results" MODIFIED="1547328106627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoModelTestCase.coverage" NAME="Unittests for app_tests.TacoModelTestCase Coverage Results" MODIFIED="1547328277393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoViewsTestCase_test_taco_create.coverage" NAME="Unittests for app_tests.TacoViewsTestCase.test_taco_create Coverage Results" MODIFIED="1547328184123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_TacoViewsTestCase_test_taco_create.coverage" NAME="Unittests for app_tests.TacoViewsTestCase.test_taco_create Coverage Results" MODIFIED="1547362671903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserModelTestCase_test_create_user.coverage" NAME="Unittests for app_tests.UserModelTestCase.test_create_user Coverage Results" MODIFIED="1547176075708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase.coverage" NAME="Unittests for app_tests.UserViewsTestCase Coverage Results" MODIFIED="1547328291087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_in_app_tests_py.coverage" NAME="Unittests in app_tests.py Coverage Results" MODIFIED="1547450209250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taco_cat$Unittests_for_app_tests_UserViewsTestCase.coverage" NAME="Unittests for app_tests.UserViewsTestCase Coverage Results" MODIFIED="1547358302994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -51,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tacocat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="68" column="37" lean-forward="true" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+            <state relative-caret-position="2504">
+              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
               <folding>
                 <element signature="e#0#87#0" expanded="true" />
               </folding>
@@ -63,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="96">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -73,19 +84,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/register.html">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="504">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -93,41 +95,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="104" column="2" lean-forward="true" selection-start-line="104" selection-start-column="2" selection-end-line="104" selection-end-column="2" />
+            <state relative-caret-position="1">
+              <caret line="155" column="45" lean-forward="true" selection-start-line="155" selection-start-column="45" selection-end-line="155" selection-end-column="45" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/flask/helpers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="304" selection-start-line="304" selection-end-line="304" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/taco.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -149,6 +139,11 @@
     </option>
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,13 +152,15 @@
         <option value="$PROJECT_DIR$/templates/register.html" />
         <option value="$PROJECT_DIR$/app_tests.py" />
         <option value="$PROJECT_DIR$/forms.py" />
-        <option value="$PROJECT_DIR$/templates/layout.html" />
+        <option value="$PROJECT_DIR$/static/css/tacocat.css" />
         <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/tacocat.py" />
+        <option value="$PROJECT_DIR$/templates/layout.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -184,18 +181,23 @@
             <path>
               <item name="taco_cat" type="b2602c69:ProjectViewProjectNode" />
               <item name="taco_cat" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taco_cat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taco_cat" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taco_cat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taco_cat" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taco_cat" type="b2602c69:ProjectViewProjectNode" />
               <item name="taco_cat" type="462c0819:PsiDirectoryNode" />
-              <item name="app_tests.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="taco_cat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taco_cat" type="462c0819:PsiDirectoryNode" />
-              <item name="app_tests.py" type="8704e2dd:PyFileNode" />
-              <item name="UserViewsTestCase" type="dd8bbb05:PyElementNode" />
+              <item name="models.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="taco_cat" type="b2602c69:ProjectViewProjectNode" />
@@ -227,7 +229,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for app_tests.UserViewsTestCase.test_logged_out_menu">
+  <component name="RunManager" selected="Flask server.Flask (tacocat.py)">
+    <configuration name="Flask (tacocat.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="taco_cat" />
+      <option name="target" value="$PROJECT_DIR$/tacocat.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="taco_cat" type="Python.FlaskServer" factoryName="Flask server">
       <module name="taco_cat" />
       <option name="target" value="$PROJECT_DIR$/app.py" />
@@ -243,7 +260,7 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for app_tests.TacoModelTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for app_tests.TacoViewsTestCase.test_taco_list" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="taco_cat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +271,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;app_tests.TacoModelTestCase&quot;" />
+      <option name="_new_target" value="&quot;app_tests.TacoViewsTestCase.test_taco_list&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for app_tests.UserViewsTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for app_tests.UserViewsTestCase.test_logged_in_menu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="taco_cat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,7 +286,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;app_tests.UserViewsTestCase&quot;" />
+      <option name="_new_target" value="&quot;app_tests.UserViewsTestCase.test_logged_in_menu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -288,7 +305,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for app_tests.UserViewsTestCase.test_logout" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in app_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="taco_cat" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,32 +316,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;app_tests.UserViewsTestCase.test_logout&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for app_tests.ViewTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="taco_cat" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;app_tests.ViewTestCase&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/app_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in app_tests.py" />
+        <item itemvalue="Flask server.Flask (tacocat.py)" />
+        <item itemvalue="Python tests.Unittests for app_tests.TacoViewsTestCase.test_taco_list" />
         <item itemvalue="Python tests.Unittests for app_tests.UserViewsTestCase.test_logged_out_menu" />
-        <item itemvalue="Python tests.Unittests for app_tests.UserViewsTestCase.test_logout" />
-        <item itemvalue="Python tests.Unittests for app_tests.UserViewsTestCase" />
-        <item itemvalue="Python tests.Unittests for app_tests.ViewTestCase" />
-        <item itemvalue="Python tests.Unittests for app_tests.TacoModelTestCase" />
+        <item itemvalue="Python tests.Unittests for app_tests.UserViewsTestCase.test_logged_in_menu" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +343,7 @@
       <workItem from="1546896945557" duration="8595000" />
       <workItem from="1546992168739" duration="25790000" />
       <workItem from="1547320079374" duration="100000" />
-      <workItem from="1547320223970" duration="6076000" />
+      <workItem from="1547320223970" duration="25910000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit of project taco_cat">
       <created>1546996174439</created>
@@ -357,53 +359,83 @@
       <option name="project" value="LOCAL" />
       <updated>1547329283966</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="have tests passing for models of both user and taco, test passing for user creation, test passing for user registration, login, and logout">
+      <created>1547329469946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547329469946</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_app_tests_UserViewsTestCase_test_good_login - 2019.01.12 at 13h 21m 33s.xml">
-      <configuration name="Unittests for app_tests.UserViewsTestCase.test_good_login" configurationId="tests" />
+    <history-entry file="Unittests_for_app_tests_TacoViewsTestCase_test_taco_list - 2019.01.13 at 16h 17m 41s.xml">
+      <configuration name="Unittests for app_tests.TacoViewsTestCase.test_taco_list" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_app_tests_UserViewsTestCase_test_bad_login - 2019.01.12 at 13h 21m 47s.xml">
-      <configuration name="Unittests for app_tests.UserViewsTestCase.test_bad_login" configurationId="tests" />
+    <history-entry file="Unittests_in_app_tests_py - 2019.01.13 at 16h 18m 01s.xml">
+      <configuration name="Unittests in app_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_app_tests_UserViewsTestCase_test_logged_out_menu - 2019.01.12 at 13h 22m 03s.xml">
+    <history-entry file="Unittests_for_app_tests_UserViewsTestCase_test_logged_out_menu - 2019.01.13 at 16h 19m 10s.xml">
       <configuration name="Unittests for app_tests.UserViewsTestCase.test_logged_out_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_app_tests_TacoViewsTestCase_test_taco_create - 2019.01.12 at 13h 23m 05s.xml">
-      <configuration name="Unittests for app_tests.TacoViewsTestCase.test_taco_create" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_app_tests_UserModelTestCase - 2019.01.12 at 13h 24m 29s.xml">
-      <configuration name="Unittests for app_tests.UserModelTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_app_tests_TacoModelTestCase - 2019.01.12 at 13h 24m 38s.xml">
-      <configuration name="Unittests for app_tests.TacoModelTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_app_tests_ViewTestCase - 2019.01.12 at 13h 24m 45s.xml">
-      <configuration name="Unittests for app_tests.ViewTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_app_tests_UserViewsTestCase - 2019.01.12 at 13h 24m 53s.xml">
-      <configuration name="Unittests for app_tests.UserViewsTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_app_tests_UserViewsTestCase_test_logout - 2019.01.12 at 13h 34m 58s.xml">
-      <configuration name="Unittests for app_tests.UserViewsTestCase.test_logout" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_app_tests_UserViewsTestCase_test_logged_out_menu - 2019.01.12 at 13h 35m 19s.xml">
+    <history-entry file="Unittests_for_app_tests_UserViewsTestCase_test_logged_out_menu - 2019.01.13 at 16h 20m 50s.xml">
       <configuration name="Unittests for app_tests.UserViewsTestCase.test_logged_out_menu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_tests_py - 2019.01.13 at 16h 21m 05s.xml">
+      <configuration name="Unittests in app_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_app_tests_TacoViewsTestCase_test_taco_list - 2019.01.13 at 20h 08m 29s.xml">
+      <configuration name="Unittests for app_tests.TacoViewsTestCase.test_taco_list" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_tests_py - 2019.01.13 at 20h 09m 09s.xml">
+      <configuration name="Unittests in app_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_tests_py - 2019.01.13 at 20h 09m 26s.xml">
+      <configuration name="Unittests in app_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_tests_py - 2019.01.13 at 20h 19m 33s.xml">
+      <configuration name="Unittests in app_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_app_tests_py - 2019.01.13 at 23h 16m 55s.xml">
+      <configuration name="Unittests in app_tests.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40561000" />
+    <option name="totallyTimeSpent" value="60395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2716763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49783236" visible="true" weight="0.43216783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49783236" visible="true" weight="0.3631579" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.83381504" weight="0.6592105" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49927744" weight="0.3104895" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50216764" side_tool="true" weight="0.32587412" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49855492" weight="0.32867134" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49927744" weight="0.32867134" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.10115607" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2716763" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49783236" visible="true" weight="0.94685316" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.83381504" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,8 +450,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.11199422" />
-    </layout>
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.10115607" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -466,42 +498,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial commit of project taco_cat" />
     <MESSAGE value="have tests passing for models of both user and taco, test passing for user creation, test passing for user registration, login, and logout" />
-    <option name="LAST_COMMIT_MESSAGE" value="have tests passing for models of both user and taco, test passing for user creation, test passing for user registration, login, and logout" />
+    <MESSAGE value="all tests passing" />
+    <option name="LAST_COMMIT_MESSAGE" value="all tests passing" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py" />
-    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/peewee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2512">
-          <caret line="2713" column="32" selection-start-line="2713" selection-start-column="32" selection-end-line="2713" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -512,30 +520,6 @@
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/taco.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -553,33 +537,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models.py">
+    <entry file="file://$PROJECT_DIR$/static/css/skeleton.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="-8554" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macros.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/taco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="539">
+            <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/tacocat.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/peewee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="724" selection-start-line="724" selection-end-line="724" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/flask/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/jinja2/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/jinja2/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="779" selection-start-line="779" selection-end-line="779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/jinja2/asyncsupport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="1798" selection-start-line="1798" selection-end-line="1798" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="155" column="45" lean-forward="true" selection-start-line="155" selection-start-column="45" selection-end-line="155" selection-end-column="45" />
           <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tacocat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="68" column="37" lean-forward="true" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        <state relative-caret-position="2504">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
           <folding>
             <element signature="e#0#87#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_tests.py">
+    <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="104" column="2" lean-forward="true" selection-start-line="104" selection-start-column="2" selection-end-line="104" selection-end-column="2" />
+        <state relative-caret-position="96">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#47#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
